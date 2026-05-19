@@ -6,7 +6,7 @@ This folder contains all Power BI dashboards and reports for my data analysis po
 
 ### Apocalypse Food Prep Analysis
 **Status**: Completed  
-**File**: `apocalypse-food-prep.pbix`
+**File**: `First Visualization.pbix`
 
 #### Project Description
 This project demonstrates a foundational workflow in Microsoft Power BI, utilizing a sample dataset to analyze shopping habits and cost optimization for long-term food storage. The analysis identifies the most cost-effective stores for essential survival supplies to optimize future shopping strategies.
@@ -54,7 +54,7 @@ While Costco is the primary recommendation for bulk purchases, the dashboard rev
 
 #### How to Use
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
-2. Open `apocalypse-food-prep.pbix`
+2. Open `First Visualization.pbix`
 3. Interact with the visualizations:
    - Use slicers to filter by store or product
    - Hover over charts for detailed values
@@ -75,7 +75,7 @@ While Costco is the primary recommendation for bulk purchases, the dashboard rev
 ```
 power-bi/
 ├── README.md (this file)
-├── apocalypse-food-prep.pbix (main dashboard file)
+├── First Visualization.pbix (main dashboard file)
 └── report-exports/
     ├── apocalypse-food-prep-summary.pdf
     ├── total-spend-by-store.png
