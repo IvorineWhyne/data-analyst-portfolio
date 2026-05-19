@@ -82,6 +82,18 @@ power-bi/
     └── price-comparison-by-product.png
 ```
 
+## 📚 Credits & Resources
+
+### Tutorial & Learning Materials
+- **Instructor**: [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst)
+- **YouTube Channel**: [@AlexTheAnalyst](https://www.youtube.com/@AlexTheAnalyst) - Comprehensive Power BI tutorials and data analysis courses
+- **GitHub Repository**: [AlexTheAnalyst](https://github.com/AlexTheAnalyst) - Source code and project datasets
+
+### Dataset
+The Apocalypse Food Prep dataset was sourced from Alex The Analyst's portfolio projects and learning materials.
+
+---
+
 ## 🔗 Related Files
 
 - Raw data: `../Apocolypse Food Prep.xlsx`
